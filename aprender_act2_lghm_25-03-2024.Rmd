@@ -5,3 +5,8 @@ date: "2024-03-25"
 output: github_document
 ---
 
+```{r}
+library(NHANES)
+```
+
+NHANES es el resultado del Estudio Nacional de _Estados Unidos sobre la Examinación de Salud y Nutrición_ 
