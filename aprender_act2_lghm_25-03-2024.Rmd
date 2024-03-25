@@ -1,0 +1,7 @@
+---
+title: "aprender_act2_lghm_25-03-2024"
+author: "Luis G. Hernández"
+date: "2024-03-25"
+output: github_document
+---
+
