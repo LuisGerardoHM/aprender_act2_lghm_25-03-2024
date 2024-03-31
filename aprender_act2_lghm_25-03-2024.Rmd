@@ -9,4 +9,4 @@ output: github_document
 library(NHANES)
 ```
 
-NHANES es el resultado del Estudio Nacional de _Estados Unidos sobre la Examinación de Salud y Nutrición_ 
+NHANES es el resultado del Estudio Nacional de _Estados Unidos sobre la Examinación de Salud y Nutrición_, en el que podemos encontrar las siguientes variables:
