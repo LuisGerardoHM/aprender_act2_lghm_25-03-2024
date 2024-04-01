@@ -10,3 +10,6 @@ library(NHANES)
 ```
 
 NHANES es el resultado del Estudio Nacional de _Estados Unidos sobre la Examinación de Salud y Nutrición_, en el que podemos encontrar las siguientes variables:
+
+
+Estas variables se pueden ver la insertar el código 
